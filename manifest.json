@@ -1,0 +1,11 @@
+{
+  "id": "digital-garden-visualizer",
+  "name": "Digital Garden Visualizer",
+  "version": "0.1.0",
+  "minAppVersion": "1.4.0",
+  "description": "Visualize digital garden notes as a forest/grid based on frontmatter fields.",
+  "author": "Chengcheng",
+  "main": "main.js",
+  "css": "styles.css",
+  "isDesktopOnly": false
+}
